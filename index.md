@@ -1,5 +1,12 @@
 ## Welcome to Rushil Ramchand's CS193 Website
 
+### An official welcome for the website where you can find a bulleted list of my favorite things about CS193 and much more in the future!
+
+# Favorite things about CS193:
+- The TA's seem knowledgeable and funny
+- The lectures teach you applicable skills and no boring theory
+- All the terminal commands are linux based (win for mac) 
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
